@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>PHP Women : An inclusive &amp; global support network</title>
+		<title>Knitnaks | A Community of local Creatives</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -31,8 +31,8 @@
 		<nav id="nav">
 			<ul class="container">
 				<li><a href="#top">Top</a></li>
-				<li><a href="#what-we-do">What We Do</a></li>
-				<li><a href="#find-us">Where To Find Us</a></li>
+                <li><a href="#coming-soon">Coming Soon</a></li>
+				<li><a href="#plans-for-2014">Plans for 2014</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
 		</nav>
@@ -45,8 +45,8 @@
 						<header>
 							<h1><img src="holdingpage/images/php-logo-white-inversed.png" alt="PHP Women"></h1>
 						</header>
-						<p>An <strong>inclusive &amp; global</strong> network providing support within the PHP community.</p>
-						<a href="#what-we-do" class="button button-big">Learn about what we do</a>
+						<p>An inclusive online community of people who like to make things and share the experience.</p>
+						<a href="#coming-soon" class="button button-big">Not here yet, but we will be...</a>
 					</div>
 				</div>
 			</article>
@@ -54,9 +54,9 @@
 
 		<!-- Work -->
 		<div class="wrapper wrapper-style2">
-			<article id="what-we-do">
+			<article id="coming-soon">
 				<header>
-					<h2>Supporting you in your code adventures.</h2>
+					<h2>Coming Soon.</h2>
 				</header>
 				<div class="container">
 					<div class="row">
@@ -64,40 +64,40 @@
 							<section class="box box-style1">
 								<span class="fa featured fa-comments-o"></span>
 								<h3>Online Interaction</h3>
-								<p>Get in touch with other members regardless of your location.</p>
+								<p>Find others like you and exchange ideas.</p>
 							</section>
 						</div>
 						<div class="4u">
 							<section class="box box-style1">
 								<span class="fa featured fa-file-o"></span>
-								<h3>Event Scholarships</h3>
-								<p>Getting you the help you need to get to conferences and hear from your peers.</p>
+								<h3>Show your Stuff</h3>
+								<p>Post your work and show us what you're made of.</p>
 							</section>
 						</div>
 						<div class="4u">
 							<section class="box box-style1">
 								<span class="fa featured fa-thumbs-o-up"></span>
-								<h3>Education &amp; Mentoring</h3>
-								<p>Helping you to level up your skills in the ways that work for you.</p>
+								<h3>Feedback &amp; Support</h3>
+								<p>Let others critique your work and improve through cooperation.</p>
 							</section>
 						</div>
 					</div>
 				</div>
 				<footer>
 					<p>Want to know what we have planned?</p>
-					<a href="#plans-for-2014" class="button button-big">Find out how we want to be there for you</a>
+					<a href="#plans-for-2014" class="button button-big">Find out what we will have in store for you.</a>
 				</footer>
 			</article>
 		</div>
 
 		<!-- EVENTS -->
-		<div class="wrapper wrapper-style3">
+		<!--<div class="wrapper wrapper-style3">
 			<article id="find-us">
 				<header>
 					<h2>Find us at events world wide</h2>
 					<span>Make sure you come and say "Hi"</span>
 				</header>
-				<!-- Conferences -->
+				<!-- Conferences
 				<div class="container">
 					<div class="row">
 						<div class="12u">
@@ -187,7 +187,7 @@
 							</article>
 						</div>
 					</div>
-					<!-- User Groups -->
+					<!-- User Groups
 					<div class="usergroups">
 						<div class="row">
 							<div class="12u">
@@ -308,27 +308,27 @@
 			<article id="plans-for-2014">
 				<header>
 					<h2>Plans for 2014</h2>
-					<span>To further support &amp; mentor women worldwide.</span>
+					<span>Launch this site.</span>
 				</header>
 				<div class="container">
 					<div class="row">
 						<div class="6u">
 							<section class="box box-style1 planbox">
-								<h3>Purple PHPWomen ElePHPants</h3>
-								<p>The purple ElePHPant is coming, get yours and help PHPWomen in our mission to support women and others in the PHP community!</p>
-								<p><a href="http://phpwomen.org/elephpant">http://phpwomen.org/elephpant</a></p>
+								<h3>Build a Community</h3>
+								<p>Get in touch with local 'Makers' and start getting some regular posters! Also get a social media presence and a little be of hype!</p>
+								<p>If you are interested, drop us an <a href="#contact">email</a></p>
 							</section>
 						</div>
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>The Website</h3>
-								<p>We've made the decision to build our website using Symfony Framework 2, making it easier for anyone to join the project. With new features planned, the site will help PHPWomen connect and collaborate with the community around the world.</p>
+								<p>We've made the decision to build our website using popular Drupal CMS, making it easier for anyone to join the project. With new features planned, and some already on the way, it's time to get excited...</p>
 								<p>See progress and get stuck in: <a href="https://github.com/erikaheidi/phpwomen">github</a></p>
 							</section>
 						</div>
 					</div>
 
-					<div class="row">
+					<!--<div class="row">
 						<div class="6u">
 							<section class="box box-style1 planbox">
 								<h3>Education</h3>
@@ -359,9 +359,9 @@
 							</section>
 						</div>
 					</div>
-				</div>
+				</div>-->
 				<footer>
-					<p>Together we can make 2014 a phenomenal year for PHPWomen.</p>
+					<p>Lets make 2014 an awesome year for Makers of all sorts.</p>
 				</footer>
 			</article>
 		</div>
@@ -375,31 +375,32 @@
 				</header>
 				<div>
 					<ul class="row">
-						<li class="4u">
+						<li class="6u">
 							<div class="box box-style2">
-								<a href="http://twitter.com/phpwomen" class="image image-full"><img src="holdingpage/images/twitter.png" alt="Tweet us" /></a>
-								<h3>@phpWomen</h3>
+								<a href="http://twitter.com/knitnaks" class="image image-full"><img src="holdingpage/images/twitter.png" alt="Tweet us" /></a>
+								<h3>@Knitnaks</h3>
 							</div>
 						</li>
-						<li class="4u">
+						<li class="6u">
 							<div class="box box-style2">
-								<a href="mailto:hello@phpwomen.org" class="image image-full"><img src="holdingpage/images/email.png" alt="Email us" /></a>
-								<h3>hello@phpwomen.org</h3>
+								<a href="mailto:hello@knitnaks.com" class="image image-full"><img src="holdingpage/images/email.png" alt="Email us" /></a>
+								<h3>hello@knitnaks.com</h3>
 							</div>
 						</li>
-						<li class="4u">
+						<!--<li class="4u">
 							<div class="box box-style2">
 								<a href="http://webchat.freenode.net?channels=%23phpwomen" class="image image-full"><img src="holdingpage/images/irc.png" alt="IRC" /></a>
 								<h3>#phpWomen</h3>
 								<span>on Freenode</span>
 							</div>
-						</li>
+						</li>-->
 					</ul>
 				</div>
 				<footer>
 					<ul id="copyright">
-						<li>&copy; 2014 PHPWomen</li>
-						<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
+						<li>&copy; 2014 Knitnaks</li>
+                        <li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
+                        <li>Forked on Github: <a href="https://github.com/phpwomen/temp-holding-page">PHPWomen</a></li>
 					</ul>
 				</footer>
 			</article>
